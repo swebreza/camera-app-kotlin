@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\c1d4844e3aa780c761f3c3bd2a3d49fe\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\3fbc67d0bc2584146afdf196b2ac9a3e\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Suweb Reza\.gradle\caches\transforms-3\44ffe26092a0c47b7040361b8243b041\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\0d8124e03941ba7eac7561d7549d575b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\7b6d32d682c0ae43a69f00d4ab60f8b9\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\06d1798a9e0a78caee1d116a33482dcc\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\b6603ec22145167901efff8e18ffefd5\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\55f99974c5f06ee622812519162d73a8\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\1e22d79cb8933a58e3bdc34ea544bdca\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\73804133d599c307bd065c19a7f9b11b\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\7517dce30372b28a1dc439449d6566e9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\09a3683d4e99741e00dddc852570b6b7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\3fe7a29a3a2534ebf6da763be8deede7\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\3ea5983391810efad8c3acc4fd9168f9\transformed\core-1.2.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\4a4d1c65d894e5bd606db75f9cbf2d56\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\fdb262a392f00999d9ba720a67c60dba\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\3a532f775c099cbd186f4d8c6034f2f1\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\7f0f554eda7fd47e45fc09a3d6fac413\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\42e164e5ee05799393ad21f063e0e542\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\71ac226f8552ad4802cf689759dc8f26\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\027f0483af78e734b1a342378865904f\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\bafa21c05677e93f0552430f52e70c98\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:3:5-58
+		INJECTED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:5:22-77
+application
+ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:7:5-31:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Suweb Reza\.gradle\caches\transforms-3\44ffe26092a0c47b7040361b8243b041\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Suweb Reza\.gradle\caches\transforms-3\44ffe26092a0c47b7040361b8243b041\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.2.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\3ea5983391810efad8c3acc4fd9168f9\transformed\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\3ea5983391810efad8c3acc4fd9168f9\transformed\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\4a4d1c65d894e5bd606db75f9cbf2d56\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\4a4d1c65d894e5bd606db75f9cbf2d56\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\3ea5983391810efad8c3acc4fd9168f9\transformed\core-1.2.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:13:9-40
+provider#androidx.core.content.FileProvider
+ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:grantUriPermissions
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:19:13-47
+	android:authorities
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:16:13-73
+	android:exported
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:17:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:20:13-22:56
+	android:resource
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:22:17-53
+	android:name
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:21:17-67
+activity#cameraApp.cam.miniProject.cameraintegration.MainActivity
+ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:24:19-90
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml
+INJECTED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\c1d4844e3aa780c761f3c3bd2a3d49fe\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\c1d4844e3aa780c761f3c3bd2a3d49fe\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\3fbc67d0bc2584146afdf196b2ac9a3e\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\3fbc67d0bc2584146afdf196b2ac9a3e\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Suweb Reza\.gradle\caches\transforms-3\44ffe26092a0c47b7040361b8243b041\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Suweb Reza\.gradle\caches\transforms-3\44ffe26092a0c47b7040361b8243b041\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\0d8124e03941ba7eac7561d7549d575b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\0d8124e03941ba7eac7561d7549d575b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\7b6d32d682c0ae43a69f00d4ab60f8b9\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\7b6d32d682c0ae43a69f00d4ab60f8b9\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\06d1798a9e0a78caee1d116a33482dcc\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\06d1798a9e0a78caee1d116a33482dcc\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\b6603ec22145167901efff8e18ffefd5\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\b6603ec22145167901efff8e18ffefd5\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\55f99974c5f06ee622812519162d73a8\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\55f99974c5f06ee622812519162d73a8\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\1e22d79cb8933a58e3bdc34ea544bdca\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\1e22d79cb8933a58e3bdc34ea544bdca\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\73804133d599c307bd065c19a7f9b11b\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\73804133d599c307bd065c19a7f9b11b\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\7517dce30372b28a1dc439449d6566e9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\7517dce30372b28a1dc439449d6566e9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\09a3683d4e99741e00dddc852570b6b7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\09a3683d4e99741e00dddc852570b6b7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\3fe7a29a3a2534ebf6da763be8deede7\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\3fe7a29a3a2534ebf6da763be8deede7\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\3ea5983391810efad8c3acc4fd9168f9\transformed\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\3ea5983391810efad8c3acc4fd9168f9\transformed\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\4a4d1c65d894e5bd606db75f9cbf2d56\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\4a4d1c65d894e5bd606db75f9cbf2d56\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\fdb262a392f00999d9ba720a67c60dba\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\fdb262a392f00999d9ba720a67c60dba\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\3a532f775c099cbd186f4d8c6034f2f1\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\3a532f775c099cbd186f4d8c6034f2f1\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\7f0f554eda7fd47e45fc09a3d6fac413\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\7f0f554eda7fd47e45fc09a3d6fac413\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\42e164e5ee05799393ad21f063e0e542\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\42e164e5ee05799393ad21f063e0e542\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\71ac226f8552ad4802cf689759dc8f26\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\71ac226f8552ad4802cf689759dc8f26\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\027f0483af78e734b1a342378865904f\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\027f0483af78e734b1a342378865904f\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\bafa21c05677e93f0552430f52e70c98\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Suweb Reza\.gradle\caches\transforms-3\bafa21c05677e93f0552430f52e70c98\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml
+INJECTED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml
+		ADDED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Drive D\CameraIntegration\app\src\main\AndroidManifest.xml
